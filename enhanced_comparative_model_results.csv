@@ -1,0 +1,28 @@
+Model_Set,Model,CV_R2_Mean,CV_R2_STD,Test_MAE,Test_RMSE,Test_R2
+Academic_Plus_Engineered_Psych,Linear Regression,0.6365,0.0345,1.0289,2.0818,0.6934
+Academic_Plus_Engineered_Psych,Ridge,0.6365,0.0345,1.0289,2.0818,0.6934
+Academic_Plus_Engineered_Psych,Lasso,0.6365,0.0344,1.0291,2.0818,0.6934
+Academic_Plus_Engineered_Psych,ElasticNet,0.6365,0.0344,1.029,2.0818,0.6934
+Academic_Plus_Raw_Psych,Linear Regression,0.6372,0.0339,1.0289,2.0821,0.6933
+Academic_Plus_Raw_Psych,Ridge,0.6372,0.0339,1.0289,2.082,0.6933
+Academic_Plus_Raw_Psych,Lasso,0.6372,0.0339,1.0289,2.082,0.6933
+Academic_Plus_Raw_Psych,ElasticNet,0.6372,0.0339,1.0289,2.082,0.6933
+Academic_Plus_Raw_Psych,Gradient Boosting,0.6152,0.0345,1.1148,2.1289,0.6794
+Academic_Plus_Engineered_Psych,Gradient Boosting,0.6069,0.0409,1.1185,2.1414,0.6756
+Academic_Plus_Engineered_Psych,SVR,0.6248,0.0356,1.1018,2.1443,0.6747
+Academic_Plus_Raw_Psych,SVR,0.6218,0.0357,1.1235,2.1611,0.6696
+Academic_Plus_Raw_Psych,XGBoost,0.6123,0.0325,1.142,2.1653,0.6683
+Academic_Plus_Engineered_Psych,XGBoost,0.6083,0.034,1.1442,2.1839,0.6626
+Academic_Plus_Raw_Psych,HistGradientBoosting,0.6048,0.0299,1.1989,2.2111,0.6541
+Academic_Plus_Engineered_Psych,HistGradientBoosting,0.6071,0.0317,1.1932,2.2141,0.6532
+Academic_Only,Linear Regression,0.5867,0.0272,1.2732,2.2515,0.6414
+Academic_Only,Ridge,0.5867,0.0272,1.2732,2.2515,0.6414
+Academic_Only,Lasso,0.5867,0.0272,1.2731,2.2515,0.6414
+Academic_Only,ElasticNet,0.5867,0.0272,1.2731,2.2515,0.6414
+Academic_Plus_Raw_Psych,Random Forest,0.5874,0.0316,1.241,2.2585,0.6392
+Academic_Plus_Engineered_Psych,Random Forest,0.599,0.0354,1.2361,2.2704,0.6353
+Academic_Only,SVR,0.5748,0.0265,1.2929,2.2803,0.6321
+Academic_Only,Gradient Boosting,0.5573,0.0302,1.3182,2.2865,0.6301
+Academic_Only,XGBoost,0.5528,0.0329,1.3341,2.2977,0.6265
+Academic_Only,HistGradientBoosting,0.5482,0.0275,1.3794,2.3304,0.6158
+Academic_Only,Random Forest,0.5265,0.029,1.4237,2.4172,0.5866

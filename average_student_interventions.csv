@@ -1,0 +1,6 @@
+Scenario,Predicted_Exam_Score,Gain_vs_Average_Baseline
+Baseline,67.08,-0.16
+Motivation Support (Low→Medium style),67.59,0.36
+Peer Mentoring (Negative→Neutral style),67.63,0.4
+Resource Assistance (Low→Medium style),68.08,0.84
+Moderate Integrated Support,69.25,2.01
